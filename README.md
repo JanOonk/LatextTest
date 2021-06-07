@@ -1,6 +1,6 @@
 # LatextTest
 
-Based on below tests and tried with different themes, the best option is SVG.
+Based on below tests and tried with different themes, the best option is SVG, only in Dark theme it's not very visible.
 
 ## Black on Black (doesn't work very well with Default Dark Theme)  
 ### GIF version (lower quality / doesn't render very nice):  
