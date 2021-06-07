@@ -1,5 +1,7 @@
 # LatextTest
 
+Based on below tests and tried with different themes, the best option is SVG.
+
 ## Black on Black (doesn't work very well with Default Dark Theme)  
 ### GIF version (lower quality / doesn't render very nice):  
 ![equation](http://latex.codecogs.com/gif.latex?O_t%3D%5Ctext%20%7B%20Onset%20event%20at%20time%20bin%20%7D%20t)  
