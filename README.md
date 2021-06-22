@@ -1,6 +1,6 @@
 # LatextTest
 
-Based on below tests and tried with different themes, the best option is SVG, only in Dark theme it's not very visible.
+Based on below tests and tried with different themes, the best option would be SVG, only in Dark theme it's not visible and in Dimmed it's not that readable. So maybe better is still the PNG black on white version although is not scalable.
 
 ## Black on Black (doesn't work very well with Default Dark Theme)  
 ### GIF version (lower quality / doesn't render very nice):  
